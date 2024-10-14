@@ -108,7 +108,7 @@ Feel free to contribute by opening issues or submitting pull requests to improve
 ---
 
 ## 📫 **Contact**
-For any questions or suggestions, feel free to reach out via [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/nada-hamdy-2265692a3/)).
+For any questions or suggestions, feel free to reach out via [LinkedIn]([https://www.linkedin.com/in/nada-hamdy-2265692a3/]).
 
 ---
 
