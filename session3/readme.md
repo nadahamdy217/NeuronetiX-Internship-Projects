@@ -14,6 +14,7 @@ This project showcases various data visualization techniques using the Seaborn l
 
 ### Line Plot
 A line plot illustrates changes in signal intensity over time using the `fmri` dataset. The visualization is enhanced by color coding and styles to represent different events and regions.
+
 ![image](https://github.com/user-attachments/assets/bdd99ac0-03e2-4db2-83b1-fbf454da762c)
 
 ### Customized Bar Plot
