@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project is a comprehensive data analysis of **[SalesTransactionDB]**, performed as part of my internship at **NeuronetiX**. The goal of the project was to clean, analyze, and visualize the dataset using **Excel**, **Python**, and **Power BI** to derive actionable insights.
+This project is a comprehensive data analysis of **[MarketSalesTransactionAnalysis]**, performed as part of my internship at **NeuronetiX**. The goal of the project was to clean, analyze, and visualize the dataset using **Excel**, **Python**, and **Power BI** to derive actionable insights.
 
 ---
 
@@ -81,6 +81,19 @@ The dataset contains the following columns:
 1. **Excel**: Open the `Clean dataset using excel.xlsx` file to see the data cleaning process.
 2. **Python**: Run the `data analysis.ipynb` notebook in Jupyter or Google Colab to perform the analysis.
 3. **Power BI**: Open the `PowerBi.pbix` file in Power BI Desktop to explore the interactive dashboards.
+
+---
+
+## 📊 **Screenshots**
+
+### Code Screenshot
+
+![Code Screenshot](https://github.com/user-attachments/assets/00d79972-f535-4558-87aa-7ed5e3957616)
+
+
+### Power BI Dashboard Screenshot
+![Power BI Dashboard](https://github.com/user-attachments/assets/6061c2b4-39c2-45c0-b858-219f95c05808)
+
 
 ---
 
