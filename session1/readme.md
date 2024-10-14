@@ -44,10 +44,14 @@ The following steps are included in the analysis:
 ## Results
 The analysis provides insights into:
 - The relationship between activity duration and heart rate.
+![image](https://github.com/user-attachments/assets/b9aa28bb-e308-49ca-8f01-834fdf1197c3)
 
 - The distribution of calories burned across different activities.
+![image](https://github.com/user-attachments/assets/cfa8ada0-c8c6-4eaf-b5bb-5b6813907712)
 
 - Correlations between pulse metrics and calorie expenditure.
+![image](https://github.com/user-attachments/assets/52138266-4e27-4ce6-84ac-5e72fadb3776)
+
 
 ## Usage
 To run the analysis, open the `data_analysis.ipynb` Jupyter Notebook and execute the code cells sequentially. Make sure to update the path to the CSV file if needed.
