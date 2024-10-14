@@ -19,14 +19,17 @@ A line plot illustrates changes in signal intensity over time using the `fmri` d
 
 ### Customized Bar Plot
 This version of the bar plot differentiates fare prices by gender, offering a more nuanced look at how demographics influenced fare pricing.
+
 ![image](https://github.com/user-attachments/assets/fab46246-ace9-49a6-b9d8-d9f5f01326cf)
 
 ### Histograms
 The histogram visualizes the distribution of petal lengths in the `iris` dataset. It provides a clear representation of frequency and data spread.
+
 ![image](https://github.com/user-attachments/assets/64febdcf-0863-4b78-9c1d-4006719b03ca)
 
 ### Distribution Plot
 A distribution plot is generated using randomly created data to demonstrate the shape and spread of the data, providing insights into univariate distributions.
+
 ![image](https://github.com/user-attachments/assets/8f7e2dda-fe3b-4b1a-a82e-7d2cbb48b892)
 
 
